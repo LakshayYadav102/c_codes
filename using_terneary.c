@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-//using ternary statement
+
 
 int main() {
     int marks;
